@@ -1,0 +1,1 @@
+# WAPP to find the multiplication table of any number using for loop

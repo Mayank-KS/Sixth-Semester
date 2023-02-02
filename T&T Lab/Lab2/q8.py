@@ -1,0 +1,1 @@
+# WAPP to find LCM of 2 numbers using while loop
