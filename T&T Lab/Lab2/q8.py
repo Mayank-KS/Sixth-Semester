@@ -1,1 +1,8 @@
-# WAPP to find LCM of 2 numbers using while loop
+# Rename key of a dictionary
+
+import q6
+
+q6.dictionary["E1"] = q6.dictionary["e1"]
+del q6.dictionary['e1']
+
+print(q6.dictionary.items())
